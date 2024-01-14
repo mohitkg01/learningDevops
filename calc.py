@@ -9,3 +9,4 @@ def sub(a,b):
 sub(10,4)
 def newfun(b):
     pass
+print("new things added in dve-01")
