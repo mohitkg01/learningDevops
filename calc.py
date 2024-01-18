@@ -7,5 +7,7 @@ sum(5,9)
 def sub(a,b):
     return a-b
 sub(10,4)
-def newfun(b):
-    pass
+def fundev01():
+    {
+    print("this is div01")
+}
